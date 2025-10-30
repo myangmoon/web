@@ -5,13 +5,13 @@ import pandas as pd
 
 # --- 1. 페이지 기본 설정 ---
 st.set_page_config(
-    page_title="김소을의 여자들",
+    page_title="김소을의 마법교실",
     page_icon="🔮",
     layout="wide"
 )
 
 # --- 2. 페이지 타이틀 ---
-st.title("김소을의 마법교실실")
+st.title("김소을의 여자들")
 st.subheader("HTML/CSS를 활용해 멋진 효과를 만들어 봐요!")
 st.markdown("---") # 구분선
 
